@@ -8,5 +8,6 @@ dependencyResolutionManagement {
          // Warning: this repository is going to shut down soon
     }
 }
+
 rootProject.name = "Ads1"
 include ':app'

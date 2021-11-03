@@ -9,6 +9,5 @@ public class AdSampleApplication extends Application {
         super.onCreate();
         // Initialize the Ads SDK.
         HwAds.init(this);
-
     }
 }

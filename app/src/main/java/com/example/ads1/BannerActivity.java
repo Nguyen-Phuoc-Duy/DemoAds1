@@ -8,9 +8,7 @@ package com.example.ads1;
 
 import android.os.Bundle;
 import android.widget.RelativeLayout;
-
 import androidx.appcompat.app.AppCompatActivity;
-
 import com.huawei.hms.ads.AdParam;
 import com.huawei.hms.ads.HwAds;
 import com.huawei.hms.ads.BannerAdSize;
@@ -41,7 +39,6 @@ public class BannerActivity extends AppCompatActivity {
 
         RelativeLayout rootView = findViewById(R.id.root_view);
         rootView.addView(topBannerView);
-
 
     }
 }

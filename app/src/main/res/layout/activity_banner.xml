@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:hwads="http://schemas.android.com/apk/res-auto"
     android:id="@+id/root_view"
@@ -12,6 +13,5 @@
         android:layout_alignParentBottom="true"
         hwads:adId="testw6vs28auh3"
         hwads:bannerSize="BANNER_SIZE_360_57" />
-
 </RelativeLayout>
 

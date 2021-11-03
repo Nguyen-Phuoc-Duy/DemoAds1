@@ -2,6 +2,7 @@ plugins {
     id 'com.android.application'
 }
 apply plugin: 'com.huawei.agconnect'
+
 android {
     compileSdk 31
 
